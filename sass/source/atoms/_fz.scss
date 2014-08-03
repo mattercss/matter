@@ -1,0 +1,14 @@
+@if $use-fz == true {
+
+/* 
+   $fz
+   ========================================================================== */
+
+.fz-xs 	{ font-size: $fz-xs; }  
+.fz-s 	{ font-size: $fz-s; }  
+.fz-m 	{ font-size: $fz-m; }  
+.fz-l 	{ font-size: $fz-l; }  
+.fz-xl 	{ font-size: $fz-xl; }  
+.fz-xxl { font-size: $fz-xxl; }
+
+} //end if

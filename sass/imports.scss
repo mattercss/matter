@@ -10,6 +10,21 @@
    ========================================================================== */
 
 //
+// $FONT 
+// ========================================================================== 
+
+@import "source/atoms/_fz";
+@import "source/atoms/_fw";
+
+//
+// $TEXT 
+// ========================================================================== 
+
+@import "source/atoms/_td";
+@import "source/atoms/_ta";
+@import "source/atoms/_va";
+
+//
 // $MARGINS 
 // ========================================================================== 
 
@@ -45,8 +60,9 @@
 @import "source/atoms/_ra";
 
 //
-// $TEXT 
+// $BOXING 
 // ========================================================================== 
 
-@import "source/atoms/_ta";
-@import "source/atoms/_va";
+@import "source/atoms/_fl";
+@import "source/atoms/_d";
+@import "source/atoms/_w";

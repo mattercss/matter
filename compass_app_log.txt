@@ -614,3 +614,40 @@ Load paths:
 2014-07-31 23:52:59 identical stylesheets/imports.css 
 2014-07-31 23:52:59 identical stylesheets/imports.css 
 2014-07-31 23:53:27 overwrite stylesheets/imports.css 
+2014-07-31 23:59:57     error sass/imports.scss (Line 1 of sass/source/atoms/_td.scss: Undefined variable: "$use-td".)
+2014-07-31 23:59:57 overwrite stylesheets/imports.css 
+2014-08-01 00:00:10 overwrite stylesheets/imports.css 
+2014-08-03 15:44:43 identical stylesheets/imports.css 
+2014-08-03 15:45:31 identical stylesheets/imports.css 
+2014-08-03 15:45:36 identical stylesheets/imports.css 
+2014-08-03 15:46:16 overwrite stylesheets/imports.css 
+2014-08-03 15:47:01     error sass/imports.scss (Line 17: File to import not found or unreadable: source/atoms/_fw.
+Load paths:
+  C:/Users/Eric/Documents/GitHub/matter/sass
+  C:/Users/Eric/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Users/Eric/Desktop/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Users/Eric/Desktop/compass.app/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  C:/Users/Eric/Desktop/compass.app/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  C:/Users/Eric/Desktop/compass.app/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  C:/Users/Eric/Desktop/compass.app/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  C:/Users/Eric/Desktop/compass.app/lib/ruby/compass_extensions/susy-1.0.9/sass
+  C:/Users/Eric/Desktop/compass.app/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  C:/Users/Eric/Desktop/vendor/assets/stylesheets)
+2014-08-03 15:47:01 overwrite stylesheets/imports.css 
+2014-08-03 15:47:13 overwrite stylesheets/imports.css 
+2014-08-03 15:48:14 overwrite stylesheets/imports.css 
+2014-08-03 15:48:17 overwrite stylesheets/imports.css 
+2014-08-03 15:52:18 identical stylesheets/imports.css 
+2014-08-03 15:52:34 overwrite stylesheets/imports.css 
+2014-08-03 15:55:46 identical stylesheets/imports.css 
+2014-08-03 15:55:46 identical stylesheets/imports.css 
+2014-08-03 15:56:02     error sass/imports.scss (Line 1 of sass/source/atoms/_fl.scss: Undefined variable: "$use-fl".)
+2014-08-03 15:56:02 overwrite stylesheets/imports.css 
+2014-08-03 15:56:21 overwrite stylesheets/imports.css 
+2014-08-03 15:57:13 overwrite stylesheets/imports.css 
+2014-08-03 15:59:43 identical stylesheets/imports.css 
+2014-08-03 15:59:55 overwrite stylesheets/imports.css 
+2014-08-03 16:05:01 identical stylesheets/imports.css 
+2014-08-03 16:05:11 overwrite stylesheets/imports.css 
+2014-08-03 16:06:58 identical stylesheets/imports.css 

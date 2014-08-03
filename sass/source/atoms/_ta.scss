@@ -4,8 +4,8 @@
    $ta
    ========================================================================== */
 
-.ta-l 	{ text-align: left; }  
+.ta-st 	{ text-align: $st; }  
 .ta-c 	{ text-align: center; }  
-.ta-r 	{ text-align: right; }  
+.ta-nd	{ text-align: $nd; }  
 
 } //end if
